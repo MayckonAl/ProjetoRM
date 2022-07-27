@@ -1,0 +1,7 @@
+.header_img{
+  width: 100vw;
+  background-image: url(../src/assets/img/supermercado.png);
+  background-position: center center;
+  background-size: cover;
+  
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@fontsource/roboto": "^4.5.7",
+    "@reduxjs/toolkit": "^1.8.2",
+    "bootstrap": "^5.2.0",
+    "react-bootstrap": "^2.4.0",
+    "redux-persist": "^6.0.0"
+  }
+}
