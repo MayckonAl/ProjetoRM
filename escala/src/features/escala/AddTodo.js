@@ -29,7 +29,7 @@ const AddTodo = () => {
         <form className="d-flex">
           <input
             className="form-control me-1"
-          
+          placeholder="01/01/2022"
             type="date"
             value={data}
             maxLength="6"
@@ -37,7 +37,7 @@ const AddTodo = () => {
           ></input>
           <input
             className="form-control me-1"
-            placeholder="ESCREVA O NOME"
+            placeholder="escreva um nome"
             type="text"
             value={name}
             maxLength="16"
