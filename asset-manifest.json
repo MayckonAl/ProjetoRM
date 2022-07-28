@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9f555a4a.css",
+    "main.js": "./static/js/main.ac7e1ebb.js",
+    "static/js/787.ceee01e9.chunk.js": "./static/js/787.ceee01e9.chunk.js",
+    "static/media/supermercado.png": "./static/media/supermercado.fa5fa11158514a74ef16.png",
+    "index.html": "./index.html",
+    "main.9f555a4a.css.map": "./static/css/main.9f555a4a.css.map",
+    "main.ac7e1ebb.js.map": "./static/js/main.ac7e1ebb.js.map",
+    "787.ceee01e9.chunk.js.map": "./static/js/787.ceee01e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f555a4a.css",
+    "static/js/main.ac7e1ebb.js"
+  ]
+}
